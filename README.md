@@ -48,7 +48,7 @@ bakery_app/
 
 ## 🖥️ 데모
 
-웹 데모: [Bakery App on Vercel](https://bakery-82uro1hjf-hyeonbaekongriiidcos-projects.vercel.app)
+웹 데모: [Bakery App on Vercel](https://bakery-app-hazel.vercel.app/)
 
 ## 🚀 시작하기
 
